@@ -3,6 +3,7 @@ name: Flutter CI
 on:
   push:
     branches:
+      - main
       - lab04-pr
   pull_request:
     branches:
